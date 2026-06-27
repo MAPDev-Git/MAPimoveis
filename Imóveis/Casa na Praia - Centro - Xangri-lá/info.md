@@ -29,3 +29,4 @@ Terreno: 12x30
 Aceita dação sob análise (imóvel até 50% do valor e ou veículo)
 💵R$ 930.000,00
 
+Imóvel já vendido. O imóvel foi vendido e está no site provisóriamente até a confirmação total da venda.
