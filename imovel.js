@@ -332,7 +332,7 @@ function renderDetail() {
       }
 
       try {
-        const response = await fetch('https://xrsjpgjqhsingniyxtua.supabase.co/functions/v1/ask-property-ai', {
+        const response = await fetch('/api/ask-property-ai', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json'
@@ -362,8 +362,8 @@ function renderDetail() {
         const data = await response.json();
         
         if (data.answer) {
-          // Remover formatação markdown de negrito (asteriscos duplos) do texto de resposta
-          aiAnswerText.textContent = data.answer.replace(/\*\*/g, '');
+          // Remover qualquer tipo de formatação markdown (como asteriscos) da resposta
+          aiAnswerText.textContent = data.answer.replace(/\*/g, '');
         } else {
           console.error("AI Error:", data.error || "No answer returned");
           aiAnswerText.textContent = "Estamos com uma demanda grande de requisições no servidor, por favor tente novamente ou chame o corretor no WhatsApp.";
