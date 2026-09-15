@@ -72,7 +72,8 @@ const HERO_SLIDES = [
   {
     imagem: 'Carrossel/2 Quartos - Camobi SM - 340.000.jpeg',
     rotulo: '2 Quartos - Camobi SM - 340.000',
-    slug: 'residencial-di-siena-camobi-santa-maria'
+    slug: 'residencial-di-siena-camobi-santa-maria',
+    vendido: true
   }
 ];
 

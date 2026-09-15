@@ -3,6 +3,7 @@
 ## Informações e Descrição (ODT)
 
 Prioridade: 4
+Status: VENDIDO
 Apartamento Di Siena
 Residencial Di Siena
 Endereço: RSC-287, 6250 - Camobi, Santa Maria (RS)
