@@ -18,7 +18,7 @@ Storage (peça para guardar coisas)
 Vaga de Garagem (Fechada)
 Posição Solar Frente Leste
 IPTU: R$ 1900,00
-Valor para venda: R$ 730.000,00
-Casa Mobiliada, estilo Rústico com 3 Dormitórios, sendo 1 Suíte, Praia de Noiva do Mar, Xangri-Lá (RS). Aconchegante e ao mesmo tempo funcional. Essa casa é ideal para quem quer acomodar bem família e amigos, ficando apenas a 300 metros do mar e de todo o sossego da preia de Noiva do Mar. Amplo Living integrando Sala de Estar, Jantar e Cozinha. Ótima localização, pertinho da praia, próxima do Mercado Asun Noiva do Mar, Padaria Vanellis e Farmácia Panvel. - Sacada Com Visão para o Mar; - Garagem Fechada; - Churrasqueira interna e externa; - Lareira - Varanda Frontal; - Frente Leste; - Área de Serviço com acesso ao Pátio: - Quiosque nos Fundos; - Mobiliada; - Financiável. De: R$ 750.000,00 Por: R$ 730.000,00
+Valor para venda: R$ 790.000,00
+Casa Mobiliada, estilo Rústico com 3 Dormitórios, sendo 1 Suíte, Praia de Noiva do Mar, Xangri-Lá (RS). Aconchegante e ao mesmo tempo funcional. Essa casa é ideal para quem quer acomodar bem família e amigos, ficando apenas a 300 metros do mar e de todo o sossego da preia de Noiva do Mar. Amplo Living integrando Sala de Estar, Jantar e Cozinha. Ótima localização, pertinho da praia, próxima do Mercado Asun Noiva do Mar, Padaria Vanellis e Farmácia Panvel. - Sacada Com Visão para o Mar; - Garagem Fechada; - Churrasqueira interna e externa; - Lareira - Varanda Frontal; - Frente Leste; - Área de Serviço com acesso ao Pátio: - Quiosque nos Fundos; - Mobiliada; - Financiável. Valor: R$ 790.000,00
 É financiável: SIM (aceita financiamento)
 Propostas de permuta ou outras quaisquer chamar o corretor no whtsapp.
